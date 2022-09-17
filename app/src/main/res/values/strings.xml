@@ -3,12 +3,22 @@
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="nav_header_title">NAPOLEON</string>
-    <string name="nav_header_subtitle">Museo NAPOLEON</string>
+    <string name="nav_header_subtitle">Museum NAPOLEON</string>
     <string name="nav_header_desc">Navigation header</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_web">Website</string>
 
     <string name="menu_home">Home</string>
-    <string name="menu_gallery">Gallery</string>
-    <string name="menu_slideshow">Slideshow</string>
     <string name="menu_exhibitions">Exhibitions</string>
+    <string name="text_home">NAPOLEON APP</string>
+    <string name="text_description_home">Browse the museum to access information </string>
+
+    <string name="smart_point_alert_title">Smart Point Detected</string>
+    <string name="smart_point_alert_message">Do you want get the Smart Point info ?</string>
+    <string name="smart_point_alert_no">No</string>
+    <string name="smart_point_alert_yes">Yes</string>
+
+    <string name="smart_point_text_name_exhibition">Name Exhibition</string>
+    <string name="smart_point_text_author">Author</string>
+    <string name="smart_point_text_created_at">Created At</string>
+    <string name="smart_point_text_information">Information</string>
 </resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NAPOLEON</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">NAPOLEON</string>
+    <string name="nav_header_subtitle">Museo NAPOLEON</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_web">Pagina web</string>
+
+    <string name="menu_home">Inicio</string>
+    <string name="menu_exhibitions">Exhibiciones</string>
+    <string name="text_home">NAPOLEON APP</string>
+    <string name="text_description_home">Navega por el museo para acceder a información</string>
+
+    <string name="smart_point_alert_title">Punto Inteligente detectado</string>
+    <string name="smart_point_alert_message">Quieres recibir la informacion del punto inteligente?</string>
+    <string name="smart_point_alert_no">No</string>
+    <string name="smart_point_alert_yes">Si</string>
+
+    <string name="smart_point_text_name_exhibition">Nombre de la Exhibicion</string>
+    <string name="smart_point_text_author">Autor</string>
+    <string name="smart_point_text_created_at">Creada en</string>
+    <string name="smart_point_text_information">Informacion</string>
+</resources>

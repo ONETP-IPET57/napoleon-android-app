@@ -23,7 +23,6 @@ import io.socket.emitter.Emitter;
 
 public class HomeFragment extends Fragment {
     private static final String TAG = "homeFragment";
-    private TextView mText;
 
     private FragmentHomeBinding binding;
 
@@ -35,8 +34,6 @@ public class HomeFragment extends Fragment {
         binding = FragmentHomeBinding.inflate(inflater, container, false);
         View root = binding.getRoot();
 
-        mText = binding.textHome;
-        homeViewModel.getText().observe(getViewLifecycleOwner(), mText::setText);
         return root;
     }
 
